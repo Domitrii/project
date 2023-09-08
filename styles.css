@@ -44,6 +44,10 @@ h1, h2, h3 {
     color: #fff;
 }
 
+.a-header:hover {
+    color: #e6e6e6;
+}
+
 .header-list {
     align-items: center;
     height: 30px;
