@@ -4,6 +4,7 @@
     text-decoration: none;
     margin: 0;
     padding: 0;
+    position: relative;
 }
 
 h1, h2, h3 {
@@ -316,3 +317,10 @@ h1, h2, h3 {
     margin-top: 6px;
     padding-bottom: 20px;
 }
+
+.down-top {
+    position: absolute;
+    right: 10px;
+    width: 200px;
+}
+
