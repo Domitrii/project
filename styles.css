@@ -40,12 +40,8 @@ h1, h2, h3 {
     color: #28A745;
 }
 
-.a-header {
+.header-a {
     color: #fff;
-}
-
-.a-header:hover {
-    color: #e6e6e6;
 }
 
 .header-list {
@@ -56,6 +52,11 @@ h1, h2, h3 {
     gap: 40px;
     justify-content: flex-end;
     margin: 20px 28px 0 auto;
+}
+
+
+.header-a:hover {
+    color: #333;
 }
 
 .button-more {
